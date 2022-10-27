@@ -1,0 +1,16 @@
+ 479  node -v
+  480  npm -v
+  481  brew upgrade node
+  482  brew install nvm
+  483  nvm install node
+  484  npm -v
+  485  node -v
+ 490  npm init
+  491  npm init
+  492  npm install electron --save-dev
+ 498  vim main.js
+  499  gs
+  500  npm run start
+  511  npm install --save-dev @electron-forge/cli
+  512  npx electron-forge import
+  513  npm run make
